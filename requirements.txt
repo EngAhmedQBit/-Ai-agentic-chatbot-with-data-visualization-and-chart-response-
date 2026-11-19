@@ -1,0 +1,4 @@
+kagglehub
+pandas
+plotly
+huggingface_hub
